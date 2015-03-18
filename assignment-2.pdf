@@ -1,0 +1,2505 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R /F6 8 0 R 
+  /F7 10 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font >>
+endobj
+9 0 obj
+<< /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+10 0 obj
+<< /BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F7 /Subtype /Type1 /Type /Font >>
+endobj
+11 0 obj
+<< /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+12 0 obj
+<< /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+13 0 obj
+<< /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+14 0 obj
+<< /Outlines 16 0 R /PageLabels 46 0 R /PageMode /UseNone /Pages 40 0 R /Type /Catalog >>
+endobj
+15 0 obj
+<< /Author () /CreationDate (D:20150318195325-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Assignment 2 \205 Perceptron) >>
+endobj
+16 0 obj
+<< /Count 33 /First 17 0 R /Last 39 0 R /Type /Outlines >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 729.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (version 1.6) >>
+endobj
+18 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 588.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Code reuse rules) >>
+endobj
+19 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 465.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (Grading) >>
+endobj
+20 0 obj
+<< /Count 18 /Dest [ 7 0 R /XYZ 62.69291 378.0236 0 ] /First 21 0 R /Last 37 0 R /Next 39 0 R /Parent 16 0 R 
+  /Prev 19 0 R /Title (Tasks) >>
+endobj
+21 0 obj
+<< /Count 1 /Dest [ 7 0 R /XYZ 62.69291 291.0236 0 ] /First 22 0 R /Last 22 0 R /Next 23 0 R /Parent 20 0 R 
+  /Title (Task 0 \(example\)) >>
+endobj
+22 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 261.0236 0 ] /Parent 21 0 R /Title (0 points) >>
+endobj
+23 0 obj
+<< /Count 1 /Dest [ 9 0 R /XYZ 62.69291 703.8236 0 ] /First 24 0 R /Last 24 0 R /Next 25 0 R /Parent 20 0 R 
+  /Prev 21 0 R /Title (Task 1) >>
+endobj
+24 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 673.8236 0 ] /Parent 23 0 R /Title (1 point) >>
+endobj
+25 0 obj
+<< /Count 1 /Dest [ 9 0 R /XYZ 62.69291 351.2236 0 ] /First 26 0 R /Last 26 0 R /Next 27 0 R /Parent 20 0 R 
+  /Prev 23 0 R /Title (Task 2) >>
+endobj
+26 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 321.2236 0 ] /Parent 25 0 R /Title (0.5 point) >>
+endobj
+27 0 obj
+<< /Count 1 /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /First 28 0 R /Last 28 0 R /Next 29 0 R /Parent 20 0 R 
+  /Prev 25 0 R /Title (Task 3) >>
+endobj
+28 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 735.0236 0 ] /Parent 27 0 R /Title (1 point) >>
+endobj
+29 0 obj
+<< /Count 1 /Dest [ 11 0 R /XYZ 62.69291 500.8236 0 ] /First 30 0 R /Last 30 0 R /Next 31 0 R /Parent 20 0 R 
+  /Prev 27 0 R /Title (Task 4) >>
+endobj
+30 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 470.8236 0 ] /Parent 29 0 R /Title (1 point) >>
+endobj
+31 0 obj
+<< /Count 1 /Dest [ 11 0 R /XYZ 62.69291 176.6236 0 ] /First 32 0 R /Last 32 0 R /Next 33 0 R /Parent 20 0 R 
+  /Prev 29 0 R /Title (Task 5) >>
+endobj
+32 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 146.6236 0 ] /Parent 31 0 R /Title (1 point) >>
+endobj
+33 0 obj
+<< /Count 1 /Dest [ 12 0 R /XYZ 62.69291 545.8236 0 ] /First 34 0 R /Last 34 0 R /Next 35 0 R /Parent 20 0 R 
+  /Prev 31 0 R /Title (Task 6) >>
+endobj
+34 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 515.8236 0 ] /Parent 33 0 R /Title (1 point) >>
+endobj
+35 0 obj
+<< /Count 1 /Dest [ 12 0 R /XYZ 62.69291 374.8236 0 ] /First 36 0 R /Last 36 0 R /Next 37 0 R /Parent 20 0 R 
+  /Prev 33 0 R /Title (Task 7) >>
+endobj
+36 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 344.8236 0 ] /Parent 35 0 R /Title (2 points) >>
+endobj
+37 0 obj
+<< /Count 1 /Dest [ 13 0 R /XYZ 62.69291 643.8236 0 ] /First 38 0 R /Last 38 0 R /Parent 20 0 R /Prev 35 0 R 
+  /Title (Task 8) >>
+endobj
+38 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 613.8236 0 ] /Parent 37 0 R /Title (1 points) >>
+endobj
+39 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 364.8236 0 ] /Parent 16 0 R /Prev 20 0 R /Title (Testing complete algorithm) >>
+endobj
+40 0 obj
+<< /Count 5 /Kids [ 7 0 R 9 0 R 11 0 R 12 0 R 13 0 R ] /Type /Pages >>
+endobj
+41 0 obj
+<< /Length 7079 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 105.4649 0 Td (Assignment 2 \226 Perceptron) Tj T* -105.4649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (version 1.6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.055984 Tw 12 TL /F1 10 Tf 0 0 0 rg (This assignment is worth 30% of your course grade. You will implement the Perceptron algorithm in) Tj T* 0 Tw (Python. The task is split into several functions, as specified in the section ) Tj /F2 10 Tf (Tasks) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .089213 Tw 12 TL /F1 10 Tf 0 0 0 rg (You should define all the required functions in a single Python file, named ) Tj /F3 10 Tf 0 0 0 rg (perceptron_functions.py) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* 0 Tw (You should upload this file as individual assignment via Blackboard.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The file should only contain ) Tj /F2 10 Tf (function definitions ) Tj /F1 10 Tf (\(possibly with comments\), but no other executable code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .601163 Tw (For this assignment you can use any standard Python modules, but do not use any external libraries not) Tj T* 0 Tw (included with Python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Code reuse rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .919985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Remember that assignment 2 is individual work. You are ) Tj /F2 10 Tf (not allowed ) Tj /F1 10 Tf (to collaborate or share code with) Tj T* 0 Tw (other students. ) Tj /F2 10 Tf (Submissions will be checked for plagiarism.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .073876 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are welcome to study and learn from code found in online sources such as books, tutorials and blogs.) Tj T* 0 Tw .568876 Tw (You are ) Tj /F2 10 Tf (not allowed ) Tj /F1 10 Tf (to copy fragments of such code into your assignment. The only form of code reuse) Tj T* 0 Tw (allowed is to call library functions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If you are found breaking the above rules you will be reported to the Examination Board for fraud.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.238651 Tw (This assignment will be checked and graded using an automated process. Make sure you spell the) Tj T* 0 Tw 3.14186 Tw (function names correctly. Make sure the file you submit is accepted with no error by the Python) Tj T* 0 Tw .897633 Tw (interpreter. If your file gives errors when loaded into the interpreter, you may get zero credit. Make sure) Tj T* 0 Tw (your functions give the correct answers by testing them thoroughly before submitting your assignment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .631654 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each of the tasks below is marked with the maximum points you can earn. Each function is also marked) Tj T* 0 Tw .851412 Tw (as ) Tj /F4 10 Tf (non-destructive ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (destructive) Tj /F1 10 Tf (. A non-destructive function should NOT modify any of its arguments. It) Tj T* 0 Tw 1.354104 Tw (should build and return a new value. A destructive function modifies one or more of its arguments, for) Tj T* 0 Tw (example it may change a value inside a dictionary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 0 \(example\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (0 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Non-destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .022339 Tw 12 TL /F1 10 Tf 0 0 0 rg (Define function ) Tj /F3 10 Tf 0 0 0 rg (words ) Tj /F1 10 Tf 0 0 0 rg (which takes a string as an parameter and returns a list of space-delimited words in) Tj T* 0 Tw (the input string. Once defined, your function should work like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 110.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 36.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 54 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 36.75 120 12 re f*
+.960784 .960784 .862745 rg
+n 180 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 36 12 re f*
+.960784 .960784 .862745 rg
+n 42 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 24.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 24.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 114 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 24.75 54 12 re f*
+.960784 .960784 .862745 rg
+n 180 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 54 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 90 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 .75 30 12 re f*
+.960784 .960784 .862745 rg
+n 36 .75 6 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (words) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ('this is an example') Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* 0 0 0 rg ([) Tj .729412 .129412 .129412 rg ('this') Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('is') Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('an') Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('example') Tj 0 0 0 rg (]) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (words) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ('xyz') Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* 0 0 0 rg ([) Tj .729412 .129412 .129412 rg ('xyz') Tj 0 0 0 rg (]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 90.82362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Answer:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+42 0 obj
+<< /Length 10255 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 54 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 24.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 90 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 18 12.75 336 12 re f*
+.960784 .960784 .862745 rg
+n 18 .75 36 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 30 12 re f*
+.960784 .960784 .862745 rg
+n 90 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 .75 30 12 re f*
+.960784 .960784 .862745 rg
+n 126 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 150 .75 6 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (def) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (words) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (input) Tj 0 0 0 rg (\):) Tj 0 0 0 rg  T* (   ) Tj .729412 .129412 .129412 rg ("Split input string into space-separated list of words.") Tj 0 0 0 rg  T* (   ) Tj /F6 10 Tf 0 .501961 0 rg (return) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (input) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (split) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg (" ") Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 685.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (1 point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 640.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Non-destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.534269 Tw 12 TL /F1 10 Tf 0 0 0 rg (Define function ) Tj /F3 10 Tf 0 0 0 rg (parse_line ) Tj /F1 10 Tf 0 0 0 rg (which extracts the target label and feature values of a training example) Tj T* 0 Tw (from a string. The string has the following format:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 577.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (target feature_1:feature_value1 features_2:value_2 ...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 557.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (1 0:2.0 3:4.0 123:1.0) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 492.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .924751 Tw (This means the example's target label is 1, features 0 is 2.0, feature 3 is 4.0, feature 123 is 1.0 \(all the) Tj T* 0 Tw (other features are implicitly 0.0\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your function should return two values:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.4236 cm
+Q
+q
+1 0 0 1 62.69291 468.4236 cm
+Q
+q
+1 0 0 1 62.69291 456.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (a dictionary mapping features \(as ints\) to values \(as floats\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 450.4236 cm
+Q
+q
+1 0 0 1 62.69291 438.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the target label \(as int\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 438.4236 cm
+Q
+q
+1 0 0 1 62.69291 420.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 24.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 48 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 24.75 132 12 re f*
+.960784 .960784 .862745 rg
+n 192 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 204 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 12.75 60 12 re f*
+.960784 .960784 .862745 rg
+n 120 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 12.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 150 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 48 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 78 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 108 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 156 .75 12 12 re f*
+.960784 .960784 .862745 rg
+n 174 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 .75 6 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg (line) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('1 0:2.0 3:4.0 123:1.0) Tj /F6 10 Tf .733333 .4 .133333 rg (\\n) Tj /F3 10 Tf .729412 .129412 .129412 rg (') Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (parse_line) Tj 0 0 0 rg (\() Tj 0 0 0 rg (line) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* 0 0 0 rg (\({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (123) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4.0) Tj 0 0 0 rg (},) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 333.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.2236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (0.5 point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Non-destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.2236 cm
+q
+BT 1 0 0 1 0 14 Tm .860697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Define function ) Tj /F3 10 Tf 0 0 0 rg (initialize ) Tj /F1 10 Tf 0 0 0 rg (which returns an empty perceptron model. The model should consist of a) Tj T* 0 Tw (dictionary with two entries:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.2236 cm
+Q
+q
+1 0 0 1 62.69291 252.2236 cm
+Q
+q
+1 0 0 1 62.69291 240.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (b ) Tj /F1 10 Tf 0 0 0 rg (- the bias term of the model. The value of this key should be 0.0) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.2236 cm
+Q
+q
+1 0 0 1 62.69291 222.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (w ) Tj /F1 10 Tf 0 0 0 rg (- the features weights of the model. The value of this key should be an empty dictionary) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 222.2236 cm
+Q
+q
+1 0 0 1 62.69291 204.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(During learning, we will be updating this bias and the feature weights.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 24.75 60 12 re f*
+.960784 .960784 .862745 rg
+n 132 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 24 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 54 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 84 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 .75 18 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (model) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (initialize) Tj 0 0 0 rg (\(\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (model) Tj 0 0 0 rg  T* 0 0 0 rg ({) Tj .729412 .129412 .129412 rg ('b') Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('w') Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({}}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+43 0 obj
+<< /Length 18408 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (1 point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Non-destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .946235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Define the function ) Tj /F3 10 Tf 0 0 0 rg (dot ) Tj /F1 10 Tf 0 0 0 rg (which calculates the dot \(or inner\) product of two vectors. This function should) Tj T* 0 Tw .473516 Tw (work on vectors represented as dictionaries: any missing key in the dictionary is implicitly equal to 0.0. In) Tj T* 0 Tw .174692 Tw (order to compute the dot product, you need to multiply the values at the corresponding keys together, and) Tj T* 0 Tw 1.12811 Tw (sum all the results. This function can assume that the vector with more non-zero entries \(i.e. dictionary) Tj T* 0 Tw (with more keys\) will be the first argument. This is useful for efficiency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 72.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 84 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 72.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 126 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 72.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 60.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 60.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 132 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 60.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 48.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 78 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 12.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 78 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 18 12 re f*
+BT 1 0 0 1 0 74 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (v) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (dot) Tj 0 0 0 rg (\() Tj 0 0 0 rg (u) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (v) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (-) Tj .4 .4 .4 rg (6.5) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (w) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (dot) Tj 0 0 0 rg (\() Tj 0 0 0 rg (u) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (w) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (0.0) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 482.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (1 point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .711235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Define function ) Tj /F3 10 Tf 0 0 0 rg (increment ) Tj /F1 10 Tf 0 0 0 rg (which modifies a vector by adding another vector to it. The two vectors are) Tj T* 0 Tw (given as dictionaries:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 401.8236 cm
+Q
+q
+1 0 0 1 62.69291 401.8236 cm
+Q
+q
+1 0 0 1 62.69291 389.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (u ) Tj /F1 10 Tf 0 0 0 rg (- the vector to be modified \(as a dictionary\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 383.8236 cm
+Q
+q
+1 0 0 1 62.69291 371.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (v ) Tj /F1 10 Tf 0 0 0 rg (- the vector \(as a dictionary\) which should be added to ) Tj /F4 10 Tf 0 0 0 rg (u) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 371.8236 cm
+Q
+q
+1 0 0 1 62.69291 317.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.004724 Tw 12 TL /F1 10 Tf 0 0 0 rg (This function should not return anything, but it should modify ) Tj /F4 10 Tf 0 0 0 rg (u ) Tj /F1 10 Tf 0 0 0 rg (so that it contains the union of the keys) Tj T* 0 Tw .691353 Tw (present in the two vectors. The value at each key should be the sum of the values at this key in the two) Tj T* 0 Tw 2.239985 Tw (vectors. Remember that if a key is missing from the dictionary representing the vector, the value is) Tj T* 0 Tw (implicitly equal to 0.0. Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 188.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 96.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 84 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 96.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 126 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 96.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 132 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 72.75 54 12 re f*
+.960784 .960784 .862745 rg
+n 78 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 60.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 60.75 90 12 re f*
+.960784 .960784 .862745 rg
+n 0 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 42 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 138 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 186 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 84 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 126 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12.75 54 12 re f*
+.960784 .960784 .862745 rg
+n 78 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 42 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 144 .75 6 12 re f*
+BT 1 0 0 1 0 98 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (v) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (increment) Tj 0 0 0 rg (\() Tj 0 0 0 rg (u) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (v) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj /F7 10 Tf .25098 .501961 .501961 rg (# u has changed) Tj /F3 10 Tf 0 0 0 rg  T* 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (w) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (increment) Tj 0 0 0 rg (\() Tj 0 0 0 rg (u) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (w) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 158.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 131.6236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (1 point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 113.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Non-destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 83.62362 cm
+q
+BT 1 0 0 1 0 14 Tm .165251 Tw 12 TL /F1 10 Tf 0 0 0 rg (Define function ) Tj /F3 10 Tf 0 0 0 rg (scale ) Tj /F1 10 Tf 0 0 0 rg (which takes a vector ) Tj /F4 10 Tf 0 0 0 rg (u ) Tj /F1 10 Tf 0 0 0 rg (\(as a dictionary\) and a number ) Tj /F4 10 Tf 0 0 0 rg (n) Tj /F1 10 Tf 0 0 0 rg (, and returns a new vector ) Tj T* 0 Tw 2.412485 Tw (dictionary which contains the values in vector ) Tj /F4 10 Tf 0 0 0 rg (u ) Tj /F1 10 Tf 0 0 0 rg (multiplied by ) Tj /F4 10 Tf 0 0 0 rg (n) Tj /F1 10 Tf 0 0 0 rg (. This function should not modify its) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+44 0 obj
+<< /Length 18408 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.943059 Tw 12 TL /F1 10 Tf 0 0 0 rg (arguments, but should return a new dictionary. The function ) Tj /F3 10 Tf 0 0 0 rg (increment ) Tj /F1 10 Tf 0 0 0 rg (combined with the function) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (scale ) Tj /F1 10 Tf 0 0 0 rg (can be used to represent vector substraction \() Tj /F3 10 Tf 0 0 0 rg (decrement) Tj /F1 10 Tf 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 156 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 132.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 84 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 132.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 126 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 132.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 132.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 120.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 120.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 132 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 120.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 120.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 108.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 108.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 108.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 108.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 108.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 108.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 0 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 96.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 96.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 90 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 96.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 42 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 144 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 72.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 72.75 138 12 re f*
+.960784 .960784 .862745 rg
+n 0 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 60.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 36 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 60.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 78 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 60.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 0 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 84 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 126 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 48.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 132 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 36.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 174 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 54 12 re f*
+.960784 .960784 .862745 rg
+n 78 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 24.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 132 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 24.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 180 24.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 42 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 144 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 198 .75 6 12 re f*
+BT 1 0 0 1 0 134 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (v) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (n) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (scale) Tj 0 0 0 rg (\() Tj 0 0 0 rg (u) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (n) Tj 0 0 0 rg (\)) Tj 0 0 0 rg  T* 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (5.0) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj /F7 10 Tf .25098 .501961 .501961 rg (# u should be unchanged) Tj /F3 10 Tf 0 0 0 rg  T* 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (v) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (2.5) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (increment) Tj 0 0 0 rg (\() Tj 0 0 0 rg (u) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (scale) Tj 0 0 0 rg (\() Tj 0 0 0 rg (v) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (1.0) Tj 0 0 0 rg (\)\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (u) Tj 0 0 0 rg  T* 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (5.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (0.5) Tj 0 0 0 rg (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 527.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (1 point) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Non-destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Define function ) Tj /F3 10 Tf 0 0 0 rg (predict ) Tj /F1 10 Tf 0 0 0 rg (which takes two arguments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 458.8236 cm
+Q
+q
+1 0 0 1 62.69291 458.8236 cm
+Q
+q
+1 0 0 1 62.69291 434.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .271163 Tw 12 TL /F4 10 Tf 0 0 0 rg (model ) Tj /F1 10 Tf 0 0 0 rg (- the dictionary representation of the perceptron model with keys 'w' for weights and 'b' for the) Tj T* 0 Tw (bias) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 428.8236 cm
+Q
+q
+1 0 0 1 62.69291 416.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (x ) Tj /F1 10 Tf 0 0 0 rg (- new input \(as a dictionary\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 416.8236 cm
+Q
+q
+1 0 0 1 62.69291 386.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .259461 Tw 12 TL /F1 10 Tf 0 0 0 rg (It should return the predicted target for the input ) Tj /F4 10 Tf 0 0 0 rg (x) Tj /F1 10 Tf 0 0 0 rg (: it should compute the discriminant function ) Tj /F4 10 Tf 0 0 0 rg (wx + b ) Tj /F1 10 Tf 0 0 0 rg (and) Tj T* 0 Tw (predict 1 if it is greater than or equal to 0, and -1 otherwise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (2 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 311.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.8236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.818735 Tw 12 TL /F1 10 Tf 0 0 0 rg (In this task we implement the update functionality of the perceptron algorithm. You need to code the) Tj T* 0 Tw 1.189985 Tw (function ) Tj /F3 10 Tf 0 0 0 rg (update) Tj /F1 10 Tf 0 0 0 rg (, which is given a training example, and first uses the ) Tj /F3 10 Tf 0 0 0 rg (predict ) Tj /F1 10 Tf 0 0 0 rg (function to guess the) Tj T* 0 Tw .411098 Tw (target, and the updates the weights and the bias of the model depending on whether the guess is correct) Tj T* 0 Tw .452339 Tw (or incorrect, and on the direction of the mistake. Finally, the function should return the guess. ) Tj /F3 10 Tf 0 0 0 rg (update ) Tj /F1 10 Tf 0 0 0 rg (is) Tj T* 0 Tw (given two arguments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 239.8236 cm
+Q
+q
+1 0 0 1 62.69291 239.8236 cm
+Q
+q
+1 0 0 1 62.69291 227.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (model ) Tj /F1 10 Tf 0 0 0 rg (- this is the dictionary with keys 'w' \(with weights\) and 'b' \(with the bias\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 221.8236 cm
+Q
+q
+1 0 0 1 62.69291 197.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .157591 Tw 12 TL /F4 10 Tf 0 0 0 rg (xy ) Tj /F1 10 Tf 0 0 0 rg (- this is the pair ) Tj /F4 10 Tf 0 0 0 rg (\(x,y\) ) Tj /F1 10 Tf 0 0 0 rg (where ) Tj /F4 10 Tf 0 0 0 rg (x ) Tj /F1 10 Tf 0 0 0 rg (is the input vector \(as a dictionary\) and ) Tj /F4 10 Tf 0 0 0 rg (y ) Tj /F1 10 Tf 0 0 0 rg (is the target \(-1 or 1, as an) Tj T* 0 Tw (int\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.8236 cm
+Q
+q
+1 0 0 1 62.69291 179.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Details of the perceptron update rule are shown in the lecture slides for Session 4. Hints:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.8236 cm
+Q
+q
+1 0 0 1 62.69291 173.8236 cm
+Q
+q
+1 0 0 1 62.69291 161.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (a.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can use the function ) Tj /F3 10 Tf 0 0 0 rg (predict ) Tj /F1 10 Tf 0 0 0 rg (to make the guess.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 155.8236 cm
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (b.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .218443 Tw 12 TL /F1 10 Tf 0 0 0 rg (When updating the weights, use the function ) Tj /F3 10 Tf 0 0 0 rg (increment ) Tj /F1 10 Tf 0 0 0 rg (\(possibly with combination with ) Tj /F3 10 Tf 0 0 0 rg (scale) Tj /F1 10 Tf 0 0 0 rg (\) to) Tj T* 0 Tw (add the example input to \(or subtract it from\) the model weights.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+Q
+q
+1 0 0 1 62.69291 113.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Example:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+45 0 obj
+<< /Length 14558 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 655.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 96 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 144 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 192 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 240 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 252 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 258 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 270 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 288 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 300 84.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 312 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 324 84.75 18 12 re f*
+.960784 .960784 .862745 rg
+n 348 84.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 72.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 60.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 60.75 60 12 re f*
+.960784 .960784 .862745 rg
+n 132 60.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 48.75 36 12 re f*
+.960784 .960784 .862745 rg
+n 66 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 48.75 36 12 re f*
+.960784 .960784 .862745 rg
+n 114 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 48.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 150 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 48.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 36.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 36.75 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 24.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 24 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 60 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 90 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 150 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 204 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 216 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 234 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 240 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 258 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 270 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 288 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 294 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 312 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 324 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 330 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 342 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 348 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 366 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 378 .75 12 12 re f*
+.960784 .960784 .862745 rg
+n 390 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 402 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 408 .75 18 12 re f*
+.960784 .960784 .862745 rg
+n 426 .75 12 12 re f*
+BT 1 0 0 1 0 86 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (x) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (7.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (5) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (11) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3.0) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (}) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (y) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (model) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (initialize) Tj 0 0 0 rg (\(\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (y_pred) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (update) Tj 0 0 0 rg (\() Tj 0 0 0 rg (model) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (\() Tj 0 0 0 rg (x) Tj 0 0 0 rg (,) Tj 0 0 0 rg (y) Tj 0 0 0 rg (\)\)) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (y_pred) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (model) Tj 0 0 0 rg  T* .4 .4 .4 rg (1) Tj 0 0 0 rg  T* 0 0 0 rg ({) Tj .729412 .129412 .129412 rg ('b') Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (1.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('w') Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (7.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (4.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (4.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (5) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (2.0) Tj 0 0 0 rg (,) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (11) Tj 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (-) Tj .4 .4 .4 rg (3.0) Tj 0 0 0 rg (}}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 625.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Task 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 598.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F5 12.5 Tf 0 0 0 rg (1 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (Destructive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 538.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.119984 Tw 12 TL /F1 10 Tf 0 0 0 rg (In this task you'll implement the function ) Tj /F3 10 Tf 0 0 0 rg (learn ) Tj /F1 10 Tf 0 0 0 rg (will process each training example, generate a guess,) Tj T* 0 Tw 1.262209 Tw (and make an update \(using the ) Tj /F3 10 Tf 0 0 0 rg (update ) Tj /F1 10 Tf 0 0 0 rg (function from Task 6\). Finally it will return the list of guesses) Tj T* 0 Tw (made. This function is given 2 arguments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.8236 cm
+Q
+q
+1 0 0 1 62.69291 532.8236 cm
+Q
+q
+1 0 0 1 62.69291 520.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (model ) Tj /F1 10 Tf 0 0 0 rg (- the dictionary representing the perceptron model) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 514.8236 cm
+Q
+q
+1 0 0 1 62.69291 490.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .612488 Tw 12 TL /F4 10 Tf 0 0 0 rg (XY ) Tj /F1 10 Tf 0 0 0 rg (- the list of the training examples, where each example is a tuple ) Tj /F4 10 Tf 0 0 0 rg (\(x, y\)) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (x ) Tj /F1 10 Tf 0 0 0 rg (being the input vector) Tj T* 0 Tw (dictionary and ) Tj /F4 10 Tf 0 0 0 rg (y ) Tj /F1 10 Tf 0 0 0 rg (the target \(1 or -1\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 490.8236 cm
+Q
+q
+1 0 0 1 62.69291 472.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can implement this function following these steps:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 466.8236 cm
+Q
+q
+1 0 0 1 62.69291 466.8236 cm
+Q
+q
+1 0 0 1 62.69291 454.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (a.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Initialize the list of guesses to an empty list) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 448.8236 cm
+Q
+q
+1 0 0 1 62.69291 436.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (b.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For each training example ) Tj /F4 10 Tf 0 0 0 rg (\(x,y\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 436.8236 cm
+Q
+q
+1 0 0 1 62.69291 430.8236 cm
+Q
+q
+1 0 0 1 62.69291 394.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 9 0 Td (i.) Tj T* -9 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (get a guess using the ) Tj /F3 10 Tf 0 0 0 rg (update ) Tj /F1 10 Tf 0 0 0 rg (function with the ) Tj /F4 10 Tf 0 0 0 rg (model) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 6.78 0 Td (ii.) Tj T* -6.78 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (add this guess to the list of guesses) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 394.8236 cm
+Q
+q
+1 0 0 1 62.69291 388.8236 cm
+Q
+q
+1 0 0 1 62.69291 388.8236 cm
+Q
+q
+1 0 0 1 62.69291 376.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 6.22 0 Td (c.) Tj T* -6.22 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Return the complete list of guesses.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 376.8236 cm
+Q
+q
+1 0 0 1 62.69291 343.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Testing complete algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 241.8236 cm
+q
+BT 1 0 0 1 0 86 Tm .567765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Once you have correctly defined all the functions, you will be able to run the perceptron algorithm on the) Tj T* 0 Tw 6.893059 Tw /F4 10 Tf 0 0 0 rg (sentiment ) Tj /F1 10 Tf 0 0 0 rg (dataset. In order to do this, get the script ) Tj /F3 10 Tf 0 0 0 rg (perceptron.py ) Tj /F1 10 Tf 0 0 0 rg (and the datafile) Tj T* 0 Tw .523828 Tw /F3 10 Tf 0 0 0 rg (sentiment.feat ) Tj /F1 10 Tf 0 0 0 rg (from the assignment page on BlackBoard \(the feature values in the datafile represent) Tj T* 0 Tw .186905 Tw (word counts in the movie reviews\). Put your assignment file named ) Tj /F3 10 Tf 0 0 0 rg (perceptron_functions.py ) Tj /F1 10 Tf 0 0 0 rg (in the) Tj T* 0 Tw 3.306412 Tw (same directory as ) Tj /F3 10 Tf 0 0 0 rg (perceptron.py ) Tj /F1 10 Tf 0 0 0 rg (and the datafile. If you execute the ) Tj /F3 10 Tf 0 0 0 rg (main ) Tj /F1 10 Tf 0 0 0 rg (function in script) Tj T* 0 Tw 1.576654 Tw /F3 10 Tf 0 0 0 rg (perceptron.py ) Tj /F1 10 Tf 0 0 0 rg (it will run the algorithm on the data for 20 iterations and report the error rate of the) Tj T* 0 Tw .634692 Tw (predictions made within each iteration. It will also print the error rate on the development data after each) Tj T* 0 Tw (iteration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .460941 Tw (For this assigment, it is important to pay a bit of attention to speed. If your code is implemented in a very) Tj T* 0 Tw .637045 Tw (inefficient way, it will take very long to process the data. Well implemented code will complete running in) Tj T* 0 Tw (under a minute.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+46 0 obj
+<< /Nums [ 0 47 0 R 1 48 0 R 2 49 0 R 3 50 0 R 4 51 0 R ] >>
+endobj
+47 0 obj
+<< /S /D /St 1 >>
+endobj
+48 0 obj
+<< /S /D /St 2 >>
+endobj
+49 0 obj
+<< /S /D /St 3 >>
+endobj
+50 0 obj
+<< /S /D /St 4 >>
+endobj
+51 0 obj
+<< /S /D /St 5 >>
+endobj
+xref
+0 52
+0000000000 65535 f
+0000000075 00000 n
+0000000174 00000 n
+0000000284 00000 n
+0000000399 00000 n
+0000000507 00000 n
+0000000625 00000 n
+0000000747 00000 n
+0000000956 00000 n
+0000001069 00000 n
+0000001278 00000 n
+0000001395 00000 n
+0000001605 00000 n
+0000001815 00000 n
+0000002025 00000 n
+0000002134 00000 n
+0000002373 00000 n
+0000002451 00000 n
+0000002566 00000 n
+0000002699 00000 n
+0000002823 00000 n
+0000002986 00000 n
+0000003148 00000 n
+0000003247 00000 n
+0000003410 00000 n
+0000003508 00000 n
+0000003671 00000 n
+0000003771 00000 n
+0000003935 00000 n
+0000004034 00000 n
+0000004198 00000 n
+0000004297 00000 n
+0000004461 00000 n
+0000004560 00000 n
+0000004724 00000 n
+0000004823 00000 n
+0000004987 00000 n
+0000005087 00000 n
+0000005238 00000 n
+0000005338 00000 n
+0000005469 00000 n
+0000005559 00000 n
+0000012695 00000 n
+0000023008 00000 n
+0000041474 00000 n
+0000059940 00000 n
+0000074556 00000 n
+0000074636 00000 n
+0000074673 00000 n
+0000074710 00000 n
+0000074747 00000 n
+0000074784 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\374\327\364\220NH\270\270\204\373\335\203\345:G\221) (\374\327\364\220NH\270\270\204\373\335\203\345:G\221)]
+ /Info 15 0 R /Root 14 0 R /Size 52 >>
+startxref
+74821
+%%EOF
