@@ -7,11 +7,11 @@ assume basic knowledge of Python.
 
 ## Lectures
 
-- Introduction. What is machine learning. [Slides](blob/master/intro.pdf)
-- Representations. K-Nearest-neighbors. [Slides](blob/master/representations-knn.pdf)
-- Decision Trees. [Slides](blob/master/decision-trees.pdf)
-- Perceptron. [Slides](blob/master/perceptron.pdf)
-- Gradient descent. [Slides](blob/master/gradient-descent.pdf)
+- Introduction. What is machine learning. [Slides](intro.pdf)
+- Representations. K-Nearest-neighbors. [Slides](representations-knn.pdf)
+- Decision Trees. [Slides](decision-trees.pdf)
+- Perceptron. [Slides](perceptron.pdf)
+- Gradient descent. [Slides](gradient-descent.pdf)
 - Logistic regression. [Slides](blob/master/logistic-regression.pdf)
 - Clustering and unsupervised learning (guest lecture by Afra Alishahi). [Slides](blob/master/clustering.pdf)
 - Neural networks. [Slides](blob/master/neural-nets.pdf)
