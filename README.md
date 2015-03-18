@@ -12,9 +12,9 @@ assume basic knowledge of Python.
 - Decision Trees. [Slides](decision-trees.pdf)
 - Perceptron. [Slides](perceptron.pdf)
 - Gradient descent. [Slides](gradient-descent.pdf)
-- Logistic regression. [Slides](blob/master/logistic-regression.pdf)
-- Clustering and unsupervised learning (guest lecture by Afra Alishahi). [Slides](blob/master/clustering.pdf)
-- Neural networks. [Slides](blob/master/neural-nets.pdf)
+- Logistic regression. [Slides](logistic-regression.pdf)
+- Clustering and unsupervised learning (guest lecture by Afra Alishahi). [Slides](clustering.pdf)
+- Neural networks. [Slides](neural-nets.pdf)
 
 
 This work is licensed under the Creative Commons Attribution 4.0
