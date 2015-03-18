@@ -29,7 +29,7 @@ assume basic knowledge of Python.
 
   - [Instructions](assignment-2.pdf)
   - [perceptron.pdf](perceptron.pdf)
-  - [sentiment.feat][sentiment.feat]
+  - [sentiment.feat](sentiment.feat)
 
 This work is licensed under the Creative Commons Attribution 4.0
 International License. To view a copy of this license, visit
