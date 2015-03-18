@@ -28,7 +28,7 @@ assume basic knowledge of Python.
 - Perceptron
 
   - [Instructions](assignment-2.pdf)
-  - [perceptron.pdf](perceptron.pdf)
+  - [perceptron.py](perceptron.py)
   - [sentiment.feat](sentiment.feat)
 
 This work is licensed under the Creative Commons Attribution 4.0
